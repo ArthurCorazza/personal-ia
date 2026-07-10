@@ -1,0 +1,83 @@
+{
+  "nome": "Cleiton da Silva",
+  "idade": 28,
+  "profissao": "Analista de Sistemas",
+  "altura_cm": 176,
+  "peso_kg": 76,
+  "objetivo_principal": "Hipertrofia muscular com melhora do condicionamento físico",
+  "nivel_experiencia": "intermediario",
+  "frequencia_treino_atual": "4 vezes por semana",
+  "frequencia_treino_desejada": "5 vezes por semana",
+  "tempo_disponivel_por_treino_minutos": 60,
+  "local_de_treino": "academia",
+  "equipamentos_disponiveis": [
+    "halteres",
+    "barra",
+    "anilhas",
+    "máquinas guiadas",
+    "cabos",
+    "banco ajustável",
+    "leg press",
+    "esteira",
+    "bicicleta ergométrica"
+  ],
+  "preferencias": {
+    "tipo_treino_preferido": "musculacao",
+    "formato_preferido": "treino dividido por grupos musculares",
+    "exercicios_preferidos": [
+      "supino reto",
+      "puxada frontal",
+      "remada baixa",
+      "leg press",
+      "desenvolvimento com halteres"
+    ],
+    "exercicios_a_evitar": [
+      "corrida longa",
+      "agachamento livre profundo sem supervisão"
+    ]
+  },
+  "limitacoes_fisicas": [
+    {
+      "regiao": "joelho direito",
+      "tipo": "desconforto leve",
+      "descricao": "Desconforto relatado em movimentos com flexão profunda de joelho, principalmente em agachamento livre.",
+      "nivel_gravidade": "leve",
+      "acao_recomendada_para_o_agente": "sugerir controle de amplitude, redução de carga, substituições mais estáveis e recomendar avaliação profissional caso a dor aumente ou persista"
+    }
+  ],
+  "condicoes_medicas_informadas": [],
+  "possui_liberacao_medica": "nao_informado",
+  "restricoes_de_seguranca": [
+    "não realizar diagnóstico médico",
+    "não prescrever medicamentos, suplementos ou tratamentos clínicos",
+    "não recomendar treino intenso em caso de dor forte, tontura, falta de ar ou lesão não avaliada",
+    "recomendar profissional habilitado quando houver dor persistente ou limitação importante"
+  ],
+  "metas": [
+    {
+      "meta": "Aumentar massa muscular",
+      "indicador": "melhora de força e medidas corporais",
+      "prazo": "12 semanas"
+    },
+    {
+      "meta": "Melhorar consistência de treino",
+      "indicador": "realizar pelo menos 4 treinos por semana",
+      "prazo": "8 semanas"
+    },
+    {
+      "meta": "Reduzir desconforto no joelho em exercícios de perna",
+      "indicador": "relatar dor igual ou menor que 2 em escala de 0 a 10",
+      "prazo": "6 semanas"
+    }
+  ],
+  "preferencias_de_resposta_do_agente": {
+    "tom": "claro, motivador, acessível e responsável",
+    "nivel_detalhe": "moderado",
+    "formato": [
+      "listas",
+      "tabelas",
+      "explicações curtas",
+      "passo a passo quando necessário"
+    ]
+  }
+}

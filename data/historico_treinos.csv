@@ -1,0 +1,13 @@
+data,grupo_muscular,exercicio,series,repeticoes,carga_kg,tipo_treino,observacoes
+2026-07-01,peito,supino reto,4,8,70,hipertrofia,boa execução; manter carga
+2026-07-01,peito,supino inclinado com halteres,3,10,24,hipertrofia,últimas repetições difíceis
+2026-07-01,triceps,triceps corda,3,12,25,hipertrofia,sem dor
+2026-07-02,costas,puxada frontal,4,10,60,hipertrofia,boa amplitude
+2026-07-02,costas,remada baixa,3,10,55,hipertrofia,controle adequado
+2026-07-02,biceps,rosca direta,3,12,25,hipertrofia,fadiga moderada
+2026-07-03,pernas,leg press 45,4,10,160,hipertrofia,sem dor; amplitude controlada
+2026-07-03,pernas,cadeira extensora,3,12,45,hipertrofia,leve desconforto no joelho direito
+2026-07-03,posterior de coxa,mesa flexora,3,12,40,hipertrofia,sem dor
+2026-07-04,ombros,desenvolvimento com halteres,4,8,22,hipertrofia,boa estabilidade
+2026-07-04,ombros,elevação lateral,3,15,10,hipertrofia,controle bom
+2026-07-04,abdomen,prancha,3,40 segundos,0,core,boa execução

@@ -1,0 +1,224 @@
+[
+  {
+    "nome": "Supino reto",
+    "categoria": "musculacao",
+    "grupo_muscular_principal": "peitoral",
+    "grupos_secundarios": [
+      "triceps",
+      "deltoide anterior"
+    ],
+    "equipamento": "barra e banco",
+    "nivel": "intermediario",
+    "objetivo_indicado": [
+      "hipertrofia",
+      "forca"
+    ],
+    "series_recomendadas": "3 a 4",
+    "repeticoes_recomendadas": "6 a 12",
+    "substituicoes": [
+      "supino com halteres",
+      "supino máquina",
+      "flexão de braço"
+    ],
+    "cuidados": "manter escápulas estabilizadas e evitar excesso de carga sem controle técnico"
+  },
+  {
+    "nome": "Puxada frontal",
+    "categoria": "musculacao",
+    "grupo_muscular_principal": "costas",
+    "grupos_secundarios": [
+      "biceps",
+      "deltoide posterior"
+    ],
+    "equipamento": "máquina de puxada",
+    "nivel": "iniciante a intermediario",
+    "objetivo_indicado": [
+      "hipertrofia",
+      "condicionamento muscular"
+    ],
+    "series_recomendadas": "3 a 4",
+    "repeticoes_recomendadas": "8 a 12",
+    "substituicoes": [
+      "barra assistida",
+      "remada alta no cabo",
+      "pulldown com elástico"
+    ],
+    "cuidados": "evitar puxar atrás da nuca e priorizar controle de movimento"
+  },
+  {
+    "nome": "Remada baixa",
+    "categoria": "musculacao",
+    "grupo_muscular_principal": "costas",
+    "grupos_secundarios": [
+      "biceps",
+      "romboides",
+      "trapézio médio"
+    ],
+    "equipamento": "máquina ou cabo",
+    "nivel": "iniciante a intermediario",
+    "objetivo_indicado": [
+      "hipertrofia",
+      "postura"
+    ],
+    "series_recomendadas": "3 a 4",
+    "repeticoes_recomendadas": "8 a 12",
+    "substituicoes": [
+      "remada unilateral com halter",
+      "remada máquina",
+      "remada curvada com barra"
+    ],
+    "cuidados": "manter coluna neutra e evitar impulso excessivo"
+  },
+  {
+    "nome": "Leg press 45",
+    "categoria": "musculacao",
+    "grupo_muscular_principal": "quadriceps",
+    "grupos_secundarios": [
+      "gluteos",
+      "posterior de coxa"
+    ],
+    "equipamento": "leg press",
+    "nivel": "iniciante a intermediario",
+    "objetivo_indicado": [
+      "hipertrofia",
+      "forca de membros inferiores"
+    ],
+    "series_recomendadas": "3 a 4",
+    "repeticoes_recomendadas": "8 a 12",
+    "substituicoes": [
+      "agachamento no smith",
+      "cadeira extensora",
+      "afundo assistido"
+    ],
+    "cuidados": "controlar amplitude, não travar joelhos e observar desconforto no joelho"
+  },
+  {
+    "nome": "Cadeira extensora",
+    "categoria": "musculacao",
+    "grupo_muscular_principal": "quadriceps",
+    "grupos_secundarios": [],
+    "equipamento": "máquina extensora",
+    "nivel": "iniciante",
+    "objetivo_indicado": [
+      "hipertrofia",
+      "isolamento muscular"
+    ],
+    "series_recomendadas": "2 a 4",
+    "repeticoes_recomendadas": "10 a 15",
+    "substituicoes": [
+      "leg press com amplitude controlada",
+      "agachamento no smith parcial",
+      "step-up baixo"
+    ],
+    "cuidados": "usar carga moderada e interromper caso haja dor no joelho"
+  },
+  {
+    "nome": "Mesa flexora",
+    "categoria": "musculacao",
+    "grupo_muscular_principal": "posterior de coxa",
+    "grupos_secundarios": [
+      "panturrilhas"
+    ],
+    "equipamento": "máquina flexora",
+    "nivel": "iniciante",
+    "objetivo_indicado": [
+      "hipertrofia",
+      "equilibrio muscular"
+    ],
+    "series_recomendadas": "3 a 4",
+    "repeticoes_recomendadas": "10 a 15",
+    "substituicoes": [
+      "stiff com halteres",
+      "flexora sentado",
+      "ponte de glúteos"
+    ],
+    "cuidados": "controlar a fase excêntrica e evitar movimentos bruscos"
+  },
+  {
+    "nome": "Desenvolvimento com halteres",
+    "categoria": "musculacao",
+    "grupo_muscular_principal": "ombros",
+    "grupos_secundarios": [
+      "triceps",
+      "trapézio superior"
+    ],
+    "equipamento": "halteres",
+    "nivel": "intermediario",
+    "objetivo_indicado": [
+      "hipertrofia",
+      "forca"
+    ],
+    "series_recomendadas": "3 a 4",
+    "repeticoes_recomendadas": "8 a 12",
+    "substituicoes": [
+      "desenvolvimento máquina",
+      "desenvolvimento com barra",
+      "arnold press leve"
+    ],
+    "cuidados": "evitar hiperextensão lombar e controlar a amplitude"
+  },
+  {
+    "nome": "Elevação lateral",
+    "categoria": "musculacao",
+    "grupo_muscular_principal": "ombros",
+    "grupos_secundarios": [
+      "trapézio superior"
+    ],
+    "equipamento": "halteres ou cabo",
+    "nivel": "iniciante",
+    "objetivo_indicado": [
+      "hipertrofia",
+      "isolamento muscular"
+    ],
+    "series_recomendadas": "3 a 4",
+    "repeticoes_recomendadas": "12 a 15",
+    "substituicoes": [
+      "elevação lateral no cabo",
+      "elevação lateral máquina"
+    ],
+    "cuidados": "usar carga controlada e evitar balanço corporal"
+  },
+  {
+    "nome": "Tríceps corda",
+    "categoria": "musculacao",
+    "grupo_muscular_principal": "triceps",
+    "grupos_secundarios": [],
+    "equipamento": "cabo com corda",
+    "nivel": "iniciante",
+    "objetivo_indicado": [
+      "hipertrofia",
+      "isolamento muscular"
+    ],
+    "series_recomendadas": "3 a 4",
+    "repeticoes_recomendadas": "10 a 15",
+    "substituicoes": [
+      "tríceps barra",
+      "tríceps francês",
+      "mergulho assistido"
+    ],
+    "cuidados": "manter cotovelos estáveis e evitar compensação com tronco"
+  },
+  {
+    "nome": "Bicicleta ergométrica",
+    "categoria": "cardio",
+    "grupo_muscular_principal": "membros inferiores",
+    "grupos_secundarios": [
+      "sistema cardiovascular"
+    ],
+    "equipamento": "bicicleta ergométrica",
+    "nivel": "iniciante",
+    "objetivo_indicado": [
+      "aquecimento",
+      "condicionamento",
+      "baixo impacto"
+    ],
+    "duracao_recomendada": "10 a 30 minutos",
+    "intensidade_recomendada": "leve a moderada",
+    "substituicoes": [
+      "elíptico",
+      "caminhada leve",
+      "remo ergométrico leve"
+    ],
+    "cuidados": "ajustar altura do banco e manter intensidade compatível com o condicionamento"
+  }
+]

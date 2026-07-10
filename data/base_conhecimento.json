@@ -1,0 +1,73 @@
+{
+  "nome_base": "Base de Conhecimento do Personal IA",
+  "versao": "1.0",
+  "objetivo": "Apoiar respostas sobre montagem, adaptação e acompanhamento de treinos físicos de forma segura, personalizada e baseada em diretrizes confiáveis.",
+  "principios_de_treinamento": [
+    {
+      "principio": "individualizacao",
+      "descricao": "As recomendações devem considerar objetivo, nível de experiência, disponibilidade, equipamentos, histórico e limitações do usuário."
+    },
+    {
+      "principio": "sobrecarga_progressiva",
+      "descricao": "A evolução pode ocorrer por aumento gradual de carga, repetições, séries, controle técnico ou densidade do treino, evitando saltos bruscos."
+    },
+    {
+      "principio": "recuperacao",
+      "descricao": "O planejamento deve respeitar descanso entre sessões e sinais de fadiga excessiva, dor ou queda de desempenho."
+    },
+    {
+      "principio": "especificidade",
+      "descricao": "Os exercícios e métodos devem estar alinhados ao objetivo principal do usuário, como hipertrofia, força, condicionamento ou saúde geral."
+    },
+    {
+      "principio": "seguranca",
+      "descricao": "Em caso de dor intensa, lesão, tontura, falta de ar ou sintomas persistentes, o agente deve orientar o usuário a procurar profissional habilitado."
+    }
+  ],
+  "diretrizes_gerais": {
+    "atividade_fisica_adultos": {
+      "resumo": "Adultos devem buscar uma rotina consistente de atividade física, combinando exercícios aeróbicos e fortalecimento muscular, respeitando condição individual e segurança.",
+      "fonte_relacionada": "WHO - Guidelines on physical activity and sedentary behaviour"
+    },
+    "fortalecimento_muscular": {
+      "resumo": "Atividades de fortalecimento envolvendo grandes grupos musculares são recomendadas em pelo menos 2 dias por semana para adultos, conforme diretrizes de saúde pública.",
+      "fonte_relacionada": "WHO - Physical activity"
+    },
+    "treinamento_resistido": {
+      "resumo": "A progressão do treinamento resistido deve considerar carga, volume, frequência, intervalos, seleção de exercícios e nível de treinamento do indivíduo.",
+      "fonte_relacionada": "ACSM - Progression models in resistance training for healthy adults"
+    }
+  },
+  "parametros_sugeridos": {
+    "hipertrofia_intermediario": {
+      "series_por_exercicio": "3 a 4",
+      "repeticoes": "6 a 15",
+      "intervalo_descanso": "60 a 120 segundos",
+      "intensidade": "moderada a alta, preservando técnica",
+      "observacao": "Ajustar conforme fadiga, dor, recuperação e evolução do usuário."
+    },
+    "condicionamento_geral": {
+      "duracao_cardio": "10 a 30 minutos",
+      "intensidade": "leve a moderada para início ou complemento",
+      "observacao": "Priorizar modalidades compatíveis com limitações do usuário."
+    },
+    "adaptacao_por_dor": {
+      "regra": "Dor leve exige cautela e ajuste; dor intensa, progressiva ou persistente exige interrupção do exercício e orientação profissional.",
+      "acoes_possiveis": [
+        "reduzir carga",
+        "reduzir amplitude",
+        "substituir exercício",
+        "aumentar descanso",
+        "recomendar avaliação profissional"
+      ]
+    }
+  },
+  "regras_para_o_agente": [
+    "Usar apenas dados fornecidos pelo usuário e arquivos da base de conhecimento.",
+    "Não inventar estudos, fontes, cargas, diagnósticos ou recomendações clínicas.",
+    "Não prescrever medicamentos, suplementos, anabolizantes ou tratamentos.",
+    "Não prometer resultados garantidos.",
+    "Quando dados forem insuficientes, fazer perguntas antes de montar ou adaptar treinos.",
+    "Explicar recomendações de forma simples, objetiva e segura."
+  ]
+}

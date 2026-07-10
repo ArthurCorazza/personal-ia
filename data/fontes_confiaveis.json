@@ -1,0 +1,30 @@
+[
+  {
+    "nome": "WHO - Guidelines on physical activity and sedentary behaviour",
+    "instituicao": "World Health Organization",
+    "tipo": "diretriz internacional",
+    "url": "https://www.who.int/publications/i/item/9789240015128",
+    "uso_no_projeto": "Referência para recomendações gerais de atividade física, fortalecimento muscular e comportamento sedentário."
+  },
+  {
+    "nome": "WHO - Physical activity",
+    "instituicao": "World Health Organization",
+    "tipo": "página informativa oficial",
+    "url": "https://www.who.int/initiatives/behealthy/physical-activity",
+    "uso_no_projeto": "Apoio para recomendações gerais de atividade física em adultos e fortalecimento muscular."
+  },
+  {
+    "nome": "ACSM - Progression models in resistance training for healthy adults",
+    "instituicao": "American College of Sports Medicine",
+    "tipo": "position stand",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/19204579/",
+    "uso_no_projeto": "Referência para princípios de progressão em treinamento resistido para adultos saudáveis."
+  },
+  {
+    "nome": "NSCA - Basics of Strength and Conditioning Manual",
+    "instituicao": "National Strength and Conditioning Association",
+    "tipo": "manual educacional",
+    "url": "https://www.nsca.com/contentassets/de9aebfe7a7340b69217b99bb13862a7/basics_of_strength_and_conditioning_manual.pdf",
+    "uso_no_projeto": "Apoio conceitual para organização de treino, princípios de adaptação e fundamentos de força e condicionamento."
+  }
+]
