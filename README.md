@@ -231,7 +231,6 @@ personal-ia/
 │
 ├── README.md
 │
-├── requirements.txt
 │
 ├── data/
 │   ├── perfil_usuario.json
